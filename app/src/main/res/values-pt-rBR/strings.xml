@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YodaGame</string>
+    <string name="tv_nomeJogador">Nome do Jogador</string>
+    <string name="tv_time">Time</string>
+    <string name="btn_comecar">Começar Jogo</string>
+    <string-array name="lista_times">
+        <item></item>
+        <item>Ordem</item>
+        <item>Lado Negro</item>
+    </string-array>
+    <string name="hint_informe">Seu Chute</string>
+    <string name="brn_chutar">Chutar</string>
+    <string name="tv_ultimoChute">Último Chute</string>
+</resources>

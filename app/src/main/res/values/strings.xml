@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YodaGame</string>
+    <string name="tv_nomeJogador">Player\'s Name</string>
+    <string name="tv_time">Team</string>
+    <string name="btn_comecar">Begin Game</string>
+    <string-array name="lista_times">
+        <item></item>
+        <item>Order</item>
+        <item>Dark Side</item>
+    </string-array>
+    <string name="hint_informe">Your Guess</string>
+    <string name="brn_chutar">Guess</string>
+    <string name="tv_ultimoChute">Last Guest</string>
+</resources>
